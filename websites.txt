@@ -154059,3 +154059,5 @@ discordactivities.com
 discordsays.com
 discordstatus.com
 discordcdn.com
+7tv.io
+7tv.app
