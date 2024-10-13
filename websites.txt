@@ -154251,3 +154251,12 @@ newrelic.com
 162.159.135.234
 162.159.136.234
 162.159.137.232
+licdn.com
+linkedin.com 
+cdn.linkedin.oribi.io 
+dpm.demdex.net
+lnkd.demdex.net
+fbsbx.com
+connect.facebook.net 
+fbcdn.net
+facebook.net
