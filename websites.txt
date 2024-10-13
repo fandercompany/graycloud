@@ -154235,3 +154235,8 @@ bbc.com
 162.159.135.234
 162.159.136.234
 162.159.137.232
+chatgpt.com
+openai.com
+chat.openai.com
+cdn.oaistatic.com
+ab.chatgpt.com
