@@ -154088,3 +154088,7 @@ fbsbx.com
 connect.facebook.net 
 fbcdn.net
 facebook.net
+i.ytimg.com
+ytimg.com
+ggpht.com
+yt3.ggpht.com
