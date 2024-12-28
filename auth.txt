@@ -1,1 +1,2 @@
-vpnbook:c28hes5
+vpnbook
+c28hes5
